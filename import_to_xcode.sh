@@ -1,3 +1,3 @@
 #! /bin/bash
-cp CodeSnippets/* ~/Library/Developer/Xcode/UserData/CodeSnippets/
+rsync -rv CodeSnippets/ ~/Library/Developer/Xcode/UserData/CodeSnippets/
 echo "done"

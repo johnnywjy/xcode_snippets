@@ -1,3 +1,3 @@
 #! /bin/bash
-cp ~/Library/Developer/Xcode/UserData/CodeSnippets/* CodeSnippets/
+rsync -rv --delete ~/Library/Developer/Xcode/UserData/CodeSnippets/ CodeSnippets/
 echo "done"
