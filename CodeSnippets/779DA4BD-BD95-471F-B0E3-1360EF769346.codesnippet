@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>ttt</string>
+	<string>tv</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>ClassImplementation</string>
@@ -24,26 +24,31 @@
     
     UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:cellIdentifier];
     
-    if(cell == nil) {
+    if (cell == nil) {
         cell = [[UITableViewCell alloc] initWithStyle:UITableViewCellStyleDefault reuseIdentifier:cellIdentifier];
     }
-    
-    cell.textLabel.text = [NSString stringWithFormat:@"Cell %d", indexPath.row];
-    
     return cell;
 }
 
-#pragma mark - UITableView Delegate methods
+#pragma mark - UITableView Delegate
 
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
     
+}
+
+- (void)tableView:(UITableView *)tableView willDisplayCell:(UITableViewCell *)cell forRowAtIndexPath:(NSIndexPath *)indexPath {
+
 }</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>B9E1ED5F-F3D6-4479-A2DF-0C8B21740CD6</string>
+	<string>779DA4BD-BD95-471F-B0E3-1360EF769346</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetPlatformFamily</key>
+	<string>iphoneos</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>UITableView Delegate &amp; DataSource</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>ELC UITableView - Delegate - Datasource</string>
+	<string>UITableView Delegate &amp; DataSource</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

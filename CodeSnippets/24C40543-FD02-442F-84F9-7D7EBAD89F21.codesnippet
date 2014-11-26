@@ -9,7 +9,7 @@
 		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>debugMethod();</string>
+	<string>debugLog(@"&lt;#log here#&gt;");</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>24C40543-FD02-442F-84F9-7D7EBAD89F21</string>
 	<key>IDECodeSnippetLanguage</key>

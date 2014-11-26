@@ -9,15 +9,15 @@
 		<string>TopLevel</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@interface &lt;#class name#&gt; (Private)
-&lt;#method#&gt;
+	<string>@interface &lt;#class name#&gt; ()
+
 @end</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>27493307-0E64-4A11-A5F7-0A1D16532B71</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>ELC Private Class Interface</string>
+	<string>Class Extension</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

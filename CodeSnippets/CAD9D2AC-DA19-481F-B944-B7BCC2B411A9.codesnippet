@@ -3,24 +3,20 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>tq_init</string>
+	<string>notepost</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>    self = [super init];
-    if (self) {
-    }
-    return self;</string>
+	<string>    [[NSNotificationCenter defaultCenter] postNotificationName:&lt;#notification_name#&gt; object:self userInfo:&lt;#userInfo#&gt;];
+</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>93934053-BDF5-48C3-8B7F-08EB04D69442</string>
+	<string>CAD9D2AC-DA19-481F-B944-B7BCC2B411A9</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
-	<key>IDECodeSnippetSummary</key>
-	<string>tq init code</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>tq init code</string>
+	<string>notification post</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
