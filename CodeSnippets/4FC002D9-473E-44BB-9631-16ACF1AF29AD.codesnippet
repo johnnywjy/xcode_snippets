@@ -9,8 +9,7 @@
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- (void)viewWillDisappear:(BOOL)animated
-{
+	<string>- (void)viewWillDisappear:(BOOL)animated {
     [super viewWillDisappear:animated];
     &lt;#code here#&gt;
 }</string>
