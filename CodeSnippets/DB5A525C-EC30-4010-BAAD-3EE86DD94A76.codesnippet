@@ -9,8 +9,7 @@
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- (void)layoutSubviews
-{
+	<string>- (void)layoutSubviews {
     [super layoutSubviews];
     &lt;#code here#&gt;
 }
