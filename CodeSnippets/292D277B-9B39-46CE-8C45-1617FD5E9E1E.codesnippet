@@ -9,14 +9,14 @@
 		<string>TopLevel</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>extern NSString * const &lt;#string#&gt;;
+	<string>UIKIT_EXTERN NSString *const &lt;#string#&gt;;
 </string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>292D277B-9B39-46CE-8C45-1617FD5E9E1E</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C-Plus-Plus</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>externStringPublic</string>
+	<string>extern String Public</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

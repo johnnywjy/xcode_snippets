@@ -9,14 +9,14 @@
 		<string>TopLevel</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>NSString * const &lt;#string#&gt; = @"&lt;#value#&gt;";
+	<string>NSString *const &lt;#string#&gt; = @"&lt;#value#&gt;";
 </string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F5407443-FB42-4A3E-A562-959D19FE727D</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>externStringPrivate</string>
+	<string>extern String Private</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
