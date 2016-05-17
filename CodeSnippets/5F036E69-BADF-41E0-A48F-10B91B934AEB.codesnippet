@@ -3,22 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>autolayout</string>
+	<string>init unavailable for view</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
+		<string>ClassInterfaceMethods</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- (void)setupAutoLayout {
-    &lt;#code#&gt;
-}
-</string>
+	<string>- (instancetype)initWithFrame:(CGRect)frame NS_UNAVAILABLE;
+
+- (nullable instancetype)initWithCoder:(NSCoder *)aDecoder NS_UNAVAILABLE;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>B55D58B6-478E-47D2-9DD2-13C63F050C9B</string>
+	<string>5F036E69-BADF-41E0-A48F-10B91B934AEB</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C-Plus-Plus</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>autoLayout</string>
+	<string>init unavailable for view</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

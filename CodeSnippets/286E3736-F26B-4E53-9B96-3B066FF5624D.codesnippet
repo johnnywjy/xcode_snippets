@@ -3,22 +3,30 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>autolayout</string>
+	<string>lazylabel</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- (void)setupAutoLayout {
-    &lt;#code#&gt;
-}
-</string>
+	<string>- (UILabel *)&lt;#labelName#&gt; {
+    if (_&lt;#labelName#&gt; == nil) {
+        UILabel *label = [[UILabel alloc] init];
+        label.font = [UIFont systemFontOfSize:&lt;#fontSize#&gt;];
+        label.textColor = &lt;#textColor#&gt;;
+        label.numberOfLines = 1;
+        _&lt;#labelName#&gt; = label;
+    }
+    return _&lt;#labelName#&gt;;
+}</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>B55D58B6-478E-47D2-9DD2-13C63F050C9B</string>
+	<string>286E3736-F26B-4E53-9B96-3B066FF5624D</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>lazy init a UILabel</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>autoLayout</string>
+	<string>lazy init UILabel</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

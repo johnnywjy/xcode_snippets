@@ -3,22 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>autolayout</string>
+	<string>buttonpressed</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- (void)setupAutoLayout {
+	<string>- (void)&lt;#name#&gt;ButtonPressed:(UIButton *)sender {
     &lt;#code#&gt;
-}
-</string>
+}</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>B55D58B6-478E-47D2-9DD2-13C63F050C9B</string>
+	<string>D6D72F2E-21A7-4E5B-8805-DCB3B4CB2BD8</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>autoLayout</string>
+	<string>button pressed</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

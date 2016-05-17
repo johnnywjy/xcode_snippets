@@ -3,22 +3,20 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>autolayout</string>
+	<string>@pca</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
+		<string>ClassInterfaceMethods</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- (void)setupAutoLayout {
-    &lt;#code#&gt;
-}
+	<string>@property (nonatomic, copy) NSArray&lt;&lt;#ItemType#&gt; *&gt; *&lt;#arrayName#&gt;;
 </string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>B55D58B6-478E-47D2-9DD2-13C63F050C9B</string>
+	<string>8B8F0C9B-F8C4-4B20-A187-F5DD74652681</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>autoLayout</string>
+	<string>property NSArray</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

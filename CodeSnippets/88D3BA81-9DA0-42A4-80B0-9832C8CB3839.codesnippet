@@ -10,7 +10,7 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>- (&lt;#Class#&gt; *)&lt;#varName#&gt; {
-    if (!&lt;#varName#&gt;) {
+    if (&lt;#varName#&gt; == nil) {
         &lt;#varName#&gt; = [[&lt;#Class#&gt; alloc] init];
     }
     return &lt;#varName#&gt;;

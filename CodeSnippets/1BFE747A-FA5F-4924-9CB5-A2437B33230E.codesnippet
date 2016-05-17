@@ -3,22 +3,27 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>autolayout</string>
+	<string>lazyimageview</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- (void)setupAutoLayout {
-    &lt;#code#&gt;
-}
-</string>
+	<string>- (UIImageView *)&lt;#imageViewName#&gt; {
+    if (_&lt;#imageViewName#&gt; == nil) {
+        UIImageView *imageView = [[UIImageView alloc] init];
+        _&lt;#imageViewName#&gt; = imageView;
+    }
+    return _&lt;#imageViewName#&gt;;
+}</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>B55D58B6-478E-47D2-9DD2-13C63F050C9B</string>
+	<string>1BFE747A-FA5F-4924-9CB5-A2437B33230E</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>lazy init an UIImageView</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>autoLayout</string>
+	<string>lazy init UIImageView</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

@@ -2,19 +2,20 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>autolayoutbottomoffset</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>        __strong __typeof(self) strongSelf = weakSelf;
-</string>
+	<string>make.bottom.equalTo(&lt;#view#&gt;).offset(&lt;#offset#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>C4BEC9EE-C1E5-4BD0-8C9D-51FB8D1DD89B</string>
+	<string>C074C589-0D2B-45AE-AF72-C8930020BAA8</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>My Code Snippet</string>
+	<string>AutolayoutBottomOffset</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
