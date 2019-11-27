@@ -6,7 +6,7 @@
 	<string>@pimageview</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassInterfaceMethods</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>@property (nonatomic, strong) UIImageView *&lt;#imageViewName#&gt;;</string>

@@ -6,7 +6,7 @@
 	<string>@pca</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassInterfaceMethods</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>@property (nonatomic, copy) NSArray&lt;&lt;#ItemType#&gt; *&gt; *&lt;#arrayName#&gt;;

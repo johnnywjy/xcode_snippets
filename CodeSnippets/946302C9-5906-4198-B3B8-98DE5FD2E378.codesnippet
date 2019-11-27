@@ -9,10 +9,10 @@
 		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>        UIButton *unnamedButton = [UIButton buttonWithType:UIButtonTypeCustom];
-        [unnamedButton setTitle:@"&lt;#title#&gt;" forState:UIControlStateNormal];
-[unnamedButton addTarget:self action:@selector(&lt;#sel#&gt;) forControlEvents:UIControlEventTouchUpInside];
-        [unnamedButton sizeToFit];</string>
+	<string>        UIButton *button = [UIButton buttonWithType:UIButtonTypeCustom];
+        [button setTitle:@"&lt;#title#&gt;" forState:UIControlStateNormal];
+[button addTarget:self action:@selector(&lt;#sel#&gt;) forControlEvents:UIControlEventTouchUpInside];
+        [button sizeToFit];</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>946302C9-5906-4198-B3B8-98DE5FD2E378</string>
 	<key>IDECodeSnippetLanguage</key>

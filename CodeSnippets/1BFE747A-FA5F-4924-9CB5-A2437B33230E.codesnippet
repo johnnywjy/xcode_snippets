@@ -6,7 +6,7 @@
 	<string>lazyimageview</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>- (UIImageView *)&lt;#imageViewName#&gt; {
