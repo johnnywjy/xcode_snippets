@@ -6,7 +6,7 @@
 	<string>@pc</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassInterfaceMethods</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>@property (nonatomic, copy) &lt;#Type#&gt; &lt;#propertyName#&gt;;
@@ -15,6 +15,8 @@
 	<string>CE3BF63E-0F43-4233-99B2-BEB5A47E339B</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
 	<string>property copy</string>
 	<key>IDECodeSnippetUserSnippet</key>

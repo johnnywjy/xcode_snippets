@@ -6,7 +6,7 @@
 	<string>consttimeinterval</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>TopLevel</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>static const NSTimeInterval &lt;#name#&gt; = &lt;#value#&gt;;</string>
@@ -14,6 +14,8 @@
 	<string>CB82F505-44F6-4292-9E04-549E83BBBF82</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
 	<string>TimeInterval</string>
 	<key>IDECodeSnippetUserSnippet</key>

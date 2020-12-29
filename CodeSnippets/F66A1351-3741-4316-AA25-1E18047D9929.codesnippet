@@ -13,7 +13,9 @@
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F66A1351-3741-4316-AA25-1E18047D9929</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C-Plus-Plus</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
 	<string>Bind Data With View Model</string>
 	<key>IDECodeSnippetUserSnippet</key>

@@ -6,7 +6,7 @@
 	<string>constint</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>TopLevel</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>static const NSInteger &lt;#name#&gt; = &lt;#value#&gt;;
@@ -15,6 +15,8 @@
 	<string>1CA6FF03-BFEE-44C4-8533-52952898A2B0</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
 	<string>static const int</string>
 	<key>IDECodeSnippetUserSnippet</key>

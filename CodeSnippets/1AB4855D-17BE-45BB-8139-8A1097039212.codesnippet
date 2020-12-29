@@ -3,21 +3,33 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>externfloatprivate</string>
+	<string>createcollectionview</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>const CGFloat &lt;#name#&gt; = &lt;#value#&gt;;</string>
+	<string>- (UICollectionView *)collectionView {
+    if (!_collectionView) {
+        UICollectionViewFlowLayout *layout = [[UICollectionViewFlowLayout alloc] init];
+        UICollectionView *cv = [[UICollectionView alloc] initWithFrame:CGRectZero collectionViewLayout:layout];
+        cv.backgroundColor = UIColor.whiteColor;
+        cv.delegate = self;
+        cv.dataSource = self;
+        _collectionView = cv;
+    }
+    return _collectionView;
+}</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>2711FB93-B005-48A4-A90E-184DFD0CA779</string>
+	<string>1AB4855D-17BE-45BB-8139-8A1097039212</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetPlatformFamily</key>
+	<string>iphoneos</string>
 	<key>IDECodeSnippetSummary</key>
 	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>extern CGFloat Private</string>
+	<string>create collectionview</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

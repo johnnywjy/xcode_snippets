@@ -6,7 +6,7 @@
 	<string>@pai</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassInterfaceMethods</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>@property (nonatomic, assign) NSInteger &lt;#propertyName#&gt;;
@@ -15,6 +15,8 @@
 	<string>B49112AF-C066-42BA-B7F8-666006F7E6EB</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
 	<string>property integer</string>
 	<key>IDECodeSnippetUserSnippet</key>

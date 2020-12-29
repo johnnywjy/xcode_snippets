@@ -6,7 +6,7 @@
 	<string>externstringpublic</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>TopLevel</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>extern NSString *const &lt;#string#&gt;;
@@ -14,7 +14,9 @@
 	<key>IDECodeSnippetIdentifier</key>
 	<string>292D277B-9B39-46CE-8C45-1617FD5E9E1E</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C-Plus-Plus</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
 	<string>extern String Public</string>
 	<key>IDECodeSnippetUserSnippet</key>

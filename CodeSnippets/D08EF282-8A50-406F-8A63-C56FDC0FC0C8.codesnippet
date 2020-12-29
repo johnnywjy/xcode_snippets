@@ -6,7 +6,7 @@
 	<string>initwithheader</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassInterfaceMethods</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>- (instancetype)initWith&lt;#Something#&gt;:(&lt;#Class#&gt; *)&lt;#parameterName#&gt;;
@@ -14,7 +14,9 @@
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D08EF282-8A50-406F-8A63-C56FDC0FC0C8</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C-Plus-Plus</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
 	<string>Init With XXX</string>
 	<key>IDECodeSnippetUserSnippet</key>

@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>externfloatprivate</string>
+	<string></string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>const CGFloat &lt;#name#&gt; = &lt;#value#&gt;;</string>
+	<string>[</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>2711FB93-B005-48A4-A90E-184DFD0CA779</string>
+	<string>D43BBBD0-28CF-4DC5-97DF-CE7FD3252638</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
 	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>extern CGFloat Private</string>
+	<string>My Code Snippet</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

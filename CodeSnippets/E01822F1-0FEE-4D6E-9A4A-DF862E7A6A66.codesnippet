@@ -6,7 +6,7 @@
 	<string>@pa</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassInterfaceMethods</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>@property (nonatomic, assign) &lt;#Type#&gt; &lt;#propertyName#&gt;;</string>
@@ -14,6 +14,8 @@
 	<string>E01822F1-0FEE-4D6E-9A4A-DF862E7A6A66</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
 	<string>property assign</string>
 	<key>IDECodeSnippetUserSnippet</key>

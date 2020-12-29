@@ -9,11 +9,14 @@
 		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>NSLog(@"rect: { x: %g, y: %g, width: %g, height: %g }", &lt;#rect#&gt;.origin.x, &lt;#rect#&gt;.origin.y, &lt;#rect#&gt;.size.width, &lt;#rect#&gt;.size.height);</string>
+	<string>CGRect rect = &lt;#rect#&gt;;
+NSLog(@"rect: { x: %g, y: %g, width: %g, height: %g }", rect.origin.x, rect.origin.y, rect.size.width, rect.size.height);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>663F9F1F-B896-4A86-A8C2-4EEB59ECFED2</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
 	<string>Print Rect</string>
 	<key>IDECodeSnippetUserSnippet</key>

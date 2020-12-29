@@ -6,7 +6,7 @@
 	<string>@pbottomsepline</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassInterfaceMethods</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>@property (nonatomic, strong) UIView *bottomSeparatorLine;
@@ -15,6 +15,8 @@
 	<string>856A6ABD-9FAC-4656-B4E6-89FDE51A122F</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
 	<string>bottom sep line</string>
 	<key>IDECodeSnippetUserSnippet</key>

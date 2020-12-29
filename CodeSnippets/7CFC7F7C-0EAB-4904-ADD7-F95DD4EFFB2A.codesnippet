@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>+sharedinstance</string>
+	<string>sharedinstance</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>ClassImplementation</string>
@@ -21,6 +21,8 @@
 	<string>7CFC7F7C-0EAB-4904-ADD7-F95DD4EFFB2A</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
 	<string>singleton imp</string>
 	<key>IDECodeSnippetUserSnippet</key>

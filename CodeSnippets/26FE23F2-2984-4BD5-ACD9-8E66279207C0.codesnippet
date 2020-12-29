@@ -6,7 +6,7 @@
 	<string>@pcs</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassInterfaceMethods</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>@property (nonatomic, copy) NSString *&lt;#stringName#&gt;;</string>
@@ -14,6 +14,8 @@
 	<string>26FE23F2-2984-4BD5-ACD9-8E66279207C0</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
 	<string>property NSString</string>
 	<key>IDECodeSnippetUserSnippet</key>

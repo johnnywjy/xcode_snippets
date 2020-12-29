@@ -6,7 +6,7 @@
 	<string>conststring</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>TopLevel</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>static NSString *const &lt;#name#&gt; = @"&lt;#value#&gt;";
@@ -15,6 +15,8 @@
 	<string>046AA2BD-0311-4EE1-8BFE-110E837C7112</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
 	<string>static const string</string>
 	<key>IDECodeSnippetUserSnippet</key>

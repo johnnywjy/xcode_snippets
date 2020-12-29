@@ -6,7 +6,7 @@
 	<string>@pbgview</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassInterfaceMethods</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>@property (nonatomic, strong) UIView *backgroundView;
@@ -15,6 +15,8 @@
 	<string>2BC5E690-D159-4D9C-A07D-4DB7B3137C07</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
 	<string>property backgroundview</string>
 	<key>IDECodeSnippetUserSnippet</key>

@@ -6,7 +6,7 @@
 	<string>@pview</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassInterfaceMethods</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>@property (nonatomic, strong) UIView *&lt;#viewName#&gt;;</string>
@@ -14,6 +14,8 @@
 	<string>9C0B5A6E-CB4A-4309-9714-2052F94E614A</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
 	<string>property UIView</string>
 	<key>IDECodeSnippetUserSnippet</key>

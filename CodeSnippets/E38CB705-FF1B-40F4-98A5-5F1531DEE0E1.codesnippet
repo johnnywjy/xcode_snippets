@@ -14,7 +14,9 @@
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E38CB705-FF1B-40F4-98A5-5F1531DEE0E1</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C-Plus-Plus</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
 	<string>disable init</string>
 	<key>IDECodeSnippetUserSnippet</key>
